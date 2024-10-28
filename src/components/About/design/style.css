@@ -1,0 +1,19 @@
+.design-container{
+    width: 100%;
+    height: 500px;
+    background-color: #F9F6FE;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.design-container img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 150px;
+    height: 150px;
+}
